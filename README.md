@@ -7,7 +7,6 @@ Cleaned the raw data in Python, then built the visualizations in Tableau.
 
 ## Interesting Findings 
 ![Top 10 Scoring by Team](./Top_10_Scoring_By_Team.png)
-![Net Rating vs Wins](./Net_Rating_vs_Wins.png)
 
 The OKC Thunder averaged the highest scoring 
 across all 3 seasons combined, but never led any single season outright — 
