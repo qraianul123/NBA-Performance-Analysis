@@ -20,7 +20,9 @@ This scatter plot shows the relationship between Net Rating and wins across 3 se
 
 ## Tools Used
 Python: Used to load and merge 6 raw CSV files from Basketball Reference covering 3 NBA seasons
+
 Panda: Handled all the cleaning. Removed duplicate headers, stripped playoff indicators from team names, converted columns to numeric, and built new metrics like Win Percentage and Assist to Turnover Ratio.
+
 Tableau Public: Created three interactive charts that examined scoring, offensive and defensive effectiveness, and the connection between wins and Net Rating for each of the 30 teams.
 
 ## Dashboard
