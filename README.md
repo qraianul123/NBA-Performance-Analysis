@@ -6,6 +6,8 @@ winning teams from losing ones.
 Cleaned the raw data in Python, then built the visualizations in Tableau.
 
 ## Interesting Findings 
+![NBA Dashboard](./dashboard.png)
+
 The OKC Thunder averaged the highest scoring 
 across all 3 seasons combined, but never led any single season outright — 
 The most consistent offense in the league without ever peaking.
