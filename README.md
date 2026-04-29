@@ -10,4 +10,4 @@ Cleaned the raw data in Python, then built the visualizations in Tableau.
 
 The Oklahoma City Thunder averaged the highest scoring across all 3 seasons combined, yet never led the league in scoring in any individual season. This means OKC didn't have one dominant year that inflated their average. They were simply the most consistent offensive team in the league across the entire 3-season span.
 
-![Offensive vs Defensive Raiting](./Net_Rating_vs_Wins.png)
+![Offensive vs Defensive Raiting](./Offensive_vs_Defensive_Rating.png)
